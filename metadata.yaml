@@ -1,0 +1,29 @@
+_repo: Four-Dimensional-Vistas_11906
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bragdon, Claude Fayette
+    alias: Bragden, Claude
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '4128'
+    url: http://www.gutenberg.org/2009/agents/4128
+    wikipedia: http://en.wikipedia.org/wiki/Claude_Fayette_Bragdon
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11906'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fourth dimension'
+- !lcc 'BF'
+- GITenberg
+tableOfContents: The quest of freedom -- The dimensional ladder -- Physical phenomena
+  -- Transcendental physics -- Curved time -- Sleep and dreams -- The night side of
+  consciousness -- The eastern teaching -- The mystics -- Genius -- The gift of freedom.
+title: Four-Dimensional Vistas
+url: http://www.gutenberg.org/ebooks/11906
